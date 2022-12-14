@@ -1,0 +1,7 @@
+Este es un documento realizado como práctica a mis clases de GIT.
+
+En esta oportunidad, estoy realizando un ensayo para aprender a realizar un commit con GIT.
+
+Este segundo commit debería mostrar un cambio en el status.
+
+Luego de mucho tiempo, vuelvo a retomar mi estudio. Esta vez, intentando ser más disciplinado para aprender.
