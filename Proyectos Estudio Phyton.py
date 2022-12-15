@@ -49,7 +49,7 @@ def play():
     # print(f'Mejor suerte a la próxima, la computadora ha elegido {computer}.')
 
 def is_win(player, opponent):
-    # Existen jerarquías para determinar el ganador: r>t t>p p>r
+    # Existen jerarquías para determinar quién es el ganador: r>t t>p p>r
     if (player == 'r' and opponent == 't') or (player == 't' and opponent == 'p') \
         or (player == 'p' and opponent == 'r'):
         return True
